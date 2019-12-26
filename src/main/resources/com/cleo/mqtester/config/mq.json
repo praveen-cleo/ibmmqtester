@@ -1,0 +1,17 @@
+{
+  "host":"localhost",
+  "port":1414,
+  "channel":"DEV.APP.SVRCONN",
+  "qmgr": "QM1",
+  "username": "app",
+  "password": "theMeinMe",
+  "queue_name":"DEV.QUEUE.1",
+  "thread_count": 5,
+  "test_message_size_bytes" : 1000,
+  "messageCount": 500,
+  "throughJMS":   true,
+  "ccsid" : 1208,
+  "topic_name": "",
+  "topic_operation": false,
+  "concurrent": true
+}
